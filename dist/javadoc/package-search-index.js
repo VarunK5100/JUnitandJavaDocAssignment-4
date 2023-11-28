@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"factorypattern"},{"l":"javafacade"},{"l":"MoonRover"},{"l":"singletonclass"}];updateSearchResults();
